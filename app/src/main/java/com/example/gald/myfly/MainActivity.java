@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.gald.myfly.custom_view.PieChart;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 //                pie.setCurrentItem(0);
 //            }
 //        });
-
+//
 //        Button btn =(Button)findViewById(R.id.button);
 //        Button btn2 =(Button)findViewById(R.id.button2);
 //        btn.setOnClickListener(new View.OnClickListener() {
